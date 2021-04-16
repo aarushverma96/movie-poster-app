@@ -3,7 +3,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Movies from './components/Movies.js'
 import MovieInfo from './components/MovieInfo.js'
 import SearchBar from './components/SearchBar.js'
-import Pagination from '@material-ui/lab/Pagination';
 import './App.css';
 
 const App = ()=>{
